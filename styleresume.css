@@ -5,7 +5,7 @@ html {
 
 h1 {
   color: #0e4164;
-  padding-left: 10px;
+  padding-left: 5px;
 }
 
 .main {
@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-    background: none repeat scroll 0 0;
+    
     border-radius: 0 0 0 5px;
-    padding-left: 10px;
+    padding-left: 5px;
 }
