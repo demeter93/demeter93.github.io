@@ -13,3 +13,8 @@ h1 {
   float: right;
   width: 250px;
 }
+
+p {
+    background: none repeat scroll 0 0 #CFC6C2;
+    border-radius: 0 0 0 5px;
+}
