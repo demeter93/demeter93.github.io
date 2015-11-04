@@ -16,6 +16,7 @@ html {
   background: #CFC6C2;
   border-radius: 0 0 0 5px;
   padding-left: 5px;
+  float: right;
   font-family: 'Anaheim', sans-serif;
 }
 .p {
