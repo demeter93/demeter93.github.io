@@ -2,27 +2,23 @@ html {
   background: url(portfoliobkg.jpg) no-repeat center center fixed; 
     background-size: cover;
 }
-
-.h1 {
-  color: #0e4164;
-  padding-left: 5px;
-  font-family: 'Coustard', serif;
-}
-
 .main {
   border-radius: 3px;
   background: rgba(255, 255, 255, 0.9);
   float: right;
   width: 250px;
 }
-
+.h1 {
+  color: #0e4164;
+  padding-left: 5px;
+  font-family: 'Coustard', serif;
+}
 .h3 {
   background: #CFC6C2;
   border-radius: 0 0 0 5px;
   padding-left: 5px;
   font-family: 'Anaheim', sans-serif;
 }
-
 .p {
     border-radius: 0 0 0 5px;
     padding-left: 5px;
