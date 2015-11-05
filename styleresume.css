@@ -21,16 +21,15 @@ html {
 }
 .p {
     border-radius: 0 0 0 5px;
-    padding-right: 10px;
+    padding-leftt: 10px;
     clear: both;
-    float: right;
+    float: left;
     font-family: 'Anaheim', sans-serif;
 }
 
 .social {
-  border-radius: 0 0 0 5px;
-  padding-right: 10px;
+  border-radius: 0 0 0 5px;;
   padding-bottom: 10px;
   clear: both;
-  float: right;
+  float: none;
 }
