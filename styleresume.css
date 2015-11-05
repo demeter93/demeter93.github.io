@@ -21,7 +21,7 @@ html {
 }
 .p {
     border-radius: 0 0 0 5px;
-    padding-leftt: 10px;
+    padding-left: 10px;
     clear: both;
     float: left;
     font-family: 'Anaheim', sans-serif;
@@ -29,6 +29,7 @@ html {
 
 .social {
   border-radius: 0 0 0 5px;;
+  padding-left: 10px;
   padding-bottom: 10px;
   clear: both;
   float: none;
