@@ -5,7 +5,7 @@ html {
 .main {
   border-radius: 3px;
   background: rgba(255, 255, 255, 0.9);
-  float: right;
+  float: left;
   width: 500px;
 }
 .h1 {
@@ -16,7 +16,7 @@ html {
   background: #CFC6C2;
   width: 400px;
   border-radius: 0 0 0 5px;
-  padding-left: 10px;
+  float: right;
   font-family: 'Anaheim', sans-serif;
 }
 .p {
@@ -27,5 +27,5 @@ html {
 
 .social {
   border-radius: 0 0 0 5px;
-  padding-left: 250px;
+  padding-left: 10px;
 }
