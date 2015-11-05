@@ -14,7 +14,7 @@ html {
 }
 .h3 {
   background: #CFC6C2;
-  width: 100px;
+  width: 400px;
   border-radius: 0 0 0 5px;
   padding-left: 10px;
   font-family: 'Anaheim', sans-serif;
@@ -27,7 +27,7 @@ html {
 
 .social {
   border-radius: 0 0 0 5px;
-  padding-left: 10px;
+  padding-left: 250px;
 }
   
 }
