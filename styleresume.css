@@ -22,6 +22,8 @@ html {
 .p {
     border-radius: 0 0 0 5px;
     padding-left: 10px;
+    clear: both;
+    float: none;
     font-family: 'Anaheim', sans-serif;
 }
 
