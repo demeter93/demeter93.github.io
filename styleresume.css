@@ -15,7 +15,7 @@ html {
 .h3 {
   background: #CFC6C2;
   width: 490px;
-  border-radius: 5 0 0 5px;
+  border-radius: 5px 0px 0px 5px;
   float: right;
   font-family: 'Anaheim', sans-serif;
 }
